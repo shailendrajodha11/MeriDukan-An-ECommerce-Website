@@ -1,0 +1,12 @@
+.footerlogo{
+    background-image: url("./logo.png");
+    background-size: 100%;
+    box-sizing:content-box;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 4em;
+    width: 4em;
+    margin-bottom: 1vw;
+    width: 100%;
+}
