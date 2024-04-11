@@ -87,9 +87,6 @@ const Products = () => {
         {filter.map((product) => {
           return (
             <Col md={3} sm={5} xs={10} className="product mtop">
-              {/* {title === "Big Discount" ? (
-                <span className="discount">25% Off</span>
-              ) : null} */}
               <img
                 loading="lazy"
                 src={product.image}
