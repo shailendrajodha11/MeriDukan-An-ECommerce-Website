@@ -14,7 +14,6 @@ const Home = () => {
           height={500}
         />
 
-
         <div className="card-img-overlay d-flex align-items-center">
           <div className="container">
             <h5 className="card-title fs-1 text fw-lighter"><b>MERIDUKAN</b></h5>

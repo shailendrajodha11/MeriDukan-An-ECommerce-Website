@@ -5,7 +5,6 @@ export const addCart = (product) =>{
         payload:product
     }
 }
-
 // For Delete Item to Cart
 export const delCart = (product) =>{
     return {
