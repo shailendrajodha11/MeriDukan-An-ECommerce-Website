@@ -102,6 +102,7 @@ const Products = () => {
                   <ion-icon name="add">+</ion-icon>
                 </button>
               </div>
+              
               <div className="product-details">
                 <h3 >{product.title.substring(0, 25)}...</h3>
                 <div className="rate">
