@@ -103,10 +103,6 @@ button.add {
     cursor: pointer;
 }
 
-/* .product:hover .product-like {
-    opacity: 1;
-} */
-
 .product{
     box-shadow: 2px 2px 5px 2px;
 }
