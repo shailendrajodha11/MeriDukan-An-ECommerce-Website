@@ -133,7 +133,6 @@ const Products = () => {
         <div className="row">
           <div className="col-12">
             <h3 className="display-5 text-center" >Latest Products</h3>
-            {/* <hr /> */}
           </div>
         </div>
         <div className="row justify-content-center">
