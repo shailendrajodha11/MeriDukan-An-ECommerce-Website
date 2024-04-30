@@ -119,7 +119,6 @@ const Products = () => {
                     <b>Buy Now</b>
                   </Link>
                 </div>
-
               </div>
             </Col>
           );
